@@ -20,6 +20,12 @@
 #### Languages, Tools & Skills: 
 SQL, Python, Powershell
 
+- Data management: Database Concepts / Database Administration & Manipulation / Data Storage / Azure Data / Azure Data Analyst / Azure DBA / Azure SQL Database / 
+  Cloud Data Services / Data Analytics / Data Visualization / Power BI / SQL Server On Azure Virtual Machines
+- Cloud services:  Cloud Computing / Cloud Networking / Cloud Security / Cloud Storage / Virtualization (Pry - Azure, Sec - AWS)
+- Secuirty: Azure AD / Compliance Management / Identity And Access Management / Information Protection And Governance / Security Management
+- AI: Azure Bot Services / Azure Machine Learning
+
 --------------------------------------------------------------------------------------------------------
 
 #### Pro memberships & qualifications: 
