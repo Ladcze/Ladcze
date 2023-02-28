@@ -23,7 +23,7 @@
 - Cloud services:  Cloud Computing / Cloud Networking / Cloud Security / Cloud Storage / Virtualization (Pry - Azure, Sec - AWS)
 - Secuirty: Azure AD / Compliance Management / Identity And Access Management / Information Protection And Governance / Security Management
 - AI/ML: Azure Bot Services / Azure Machine Learning
-- BUsiness Analysis: Requirements gathering / Analytical & Critical Thinking / stakeholder management / Cost-Benefit Analysis / Database and SQL / Microsoft Excel /     Use-case Modelling / Documentation and Presentation 
+- Business Analysis: Requirements gathering / Analytical & Critical Thinking / stakeholder management / Cost-Benefit Analysis / Database and SQL / Microsoft Excel /     Use-case Modelling / Documentation and Presentation 
 
 --------------------------------------------------------------------------------------------------------
 
