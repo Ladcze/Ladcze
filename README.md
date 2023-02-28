@@ -1,5 +1,9 @@
 ### Hi there, my name is Lade 👋
 
+
+## I'm an Accounting pro turned IT Pro, and an avid learner!
+
+
 <!--
 **Ladcze/Ladcze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
