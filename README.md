@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------------------------------------
 
 ### About moi
-#### I'm an Accounting pro turned IT Pro, and an avid learner!
+#### I'm an Accounting major turned IT Pro, and an avid learner!
 
 - 🔭 I currently manage all ICT services to the business while playing a lead role in the delivery of a variety of IT related projects.
 - 🌱 Every day is a school day: I am always learning to further improve my technical skills and keep abreast of changes within the information technology landscape <!-- Check https://www.indeed.com/career-advice/career-development/keeping-up-with-technology -->
