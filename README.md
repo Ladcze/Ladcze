@@ -17,7 +17,7 @@
 --------------------------------------------------------------------------------------------------------
 
 #### Languages & Tools: 
-- SQL, Python, Powershell
+- SQL, Python, Bash. 
 - VS Code / Azure Data Studio / SSMS
 
 --------------------------------------------------------------------------------------------------------
@@ -28,7 +28,7 @@
 - Cloud services:  Cloud Computing / Cloud Networking / Cloud Security / Cloud Storage / Virtualization (Pry - Azure, Sec - AWS).
 - Secuirty: Azure AD / Compliance Management / Identity And Access Management / Information Protection And Governance / Security Management
 - AI/ML: Azure Bot Services / Azure Machine Learning.
-- Business Analysis: Requirements gathering / Analytical & Critical Thinking / stakeholder management / Cost-Benefit Analysis / Database and SQL / Microsoft Excel /     Use-case Modelling / Documentation and Presentation.
+- Business Analysis: Requirements gathering / Analytical & Critical Thinking / stakeholder management / Cost-Benefit Analysis / SQL Databases / Microsoft Excel / Use-case Modelling / Documentation and Presentation.
 
 --------------------------------------------------------------------------------------------------------
 
@@ -41,6 +41,7 @@
 - Microsoft Certified: Security, Compliance & Identiry. Credential ID 1464-1692.
 - Microsoft: Security Operations Analyst.
 - Microsoft: Azure Administrator Associate. 
+- Microsoft: Azure Database Administrator Associate. 
 - Microsoft: Power BI Data Analyst Associate. 
 - AXELOS Global Best Practice: PRINCE2. Credential ID 2000045422.
 
