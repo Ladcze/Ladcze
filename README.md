@@ -56,6 +56,7 @@ Watch this space 😄
 https://twitter.com/orimsway2cool | https://uk.linkedin.com/
 @orimsway2cool 
 -->
+![](twitter_icon.png)   |   ![](linkedin_icon.png)   |   ![](youtube_icon.png)
 
 --------------------------------------------------------------------------------------------------------
 
