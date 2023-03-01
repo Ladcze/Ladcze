@@ -40,7 +40,8 @@
 - Microsoft Certfied: Identity Access Management Associate. Credential ID 1547-9604.
 - Microsoft Certified: Security, Compliance & Identiry. Credential ID 1464-1692.
 - Microsoft: Security Operations Analyst.
-- Microsoft: Azure Administrator Associate. Credential ID (soon).
+- Microsoft: Azure Administrator Associate. 
+- Microsoft: Power BI Data Analyst Associate. 
 - AXELOS Global Best Practice: PRINCE2. Credential ID 2000045422.
 
 --------------------------------------------------------------------------------------------------------
@@ -57,13 +58,26 @@ https://twitter.com/orimsway2cool | https://uk.linkedin.com/
 @orimsway2cool 
 -->
 
-![](twitter_icon.png)    ![](linkedin_icon.png)      ![](youtube_icon.png)
+![](twitter_icon.png)         ![](linkedin_icon.png)          ![](youtube_icon.png)
+
+<!--
+[<img align="left" alt="orimsway2cool | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ladecze | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-->
 
 --------------------------------------------------------------------------------------------------------
 
 #### 👯 Github Stats:
-<!--
-https://github.com/ladcze/github-readme-stats
+
+<a href="https://github.com/Ladcze/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ladcze&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+
+<!-- 
+#Widget to show most used programming language# 
+<a href="https://github.com/Ladcze/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ladcze&layout=compact" />
+</a>
 -->
 
 --------------------------------------------------------------------------------------------------------
