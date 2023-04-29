@@ -39,7 +39,7 @@
 - Amazon Web Services Cloud Practitioner. Credential ID 2444299.
 - Microsoft Certfied: Identity Access Management Associate. Credential ID 1547-9604.
 - Microsoft Certified: Security, Compliance & Identiry. Credential ID 1464-1692.
-- Microsoft Certified: XX-900s.
+- Microsoft Certified: AZ/DP/AI/PL/MS-900s.
 - Microsoft: Security Operations Analyst.
 - Microsoft: Azure Administrator Associate. 
 - Microsoft: Azure Database Administrator Associate. 
