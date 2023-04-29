@@ -73,22 +73,22 @@ https://twitter.com/orimsway2cool | https://uk.linkedin.com/
 
 <a href="https://github.com/Ladcze/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ladcze&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
+</a>  
 
-<!-- 
-#Widget to show most used programming language# 
+<!--#Widget to show most used programming language# -->
 <a href="https://github.com/Ladcze/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ladcze&layout=compact" />
 </a>
--->
+
+<!-- 
+[![Ladcze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladcze)](https://github.com/ladcze/github-readme-stats)
+-->  
 
 --------------------------------------------------------------------------------------------------------
 
 <!--
 **Ladcze/Ladcze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
