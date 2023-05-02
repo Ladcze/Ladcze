@@ -90,11 +90,8 @@ Alternate Github stats code:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ladcze&layout=compact" />
 </a>
 
-
-
-<!-- 
 [![Ladcze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladcze)](https://github.com/ladcze/github-readme-stats)
--->  
+  
 
 ---
 
