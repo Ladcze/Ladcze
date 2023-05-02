@@ -1,7 +1,7 @@
 ### Hi there, my name is Ladcze 👋
 #Linux #Gamer #United;
 
---------------------------------------------------------------------------------------------------------
+---
 
 ### About moi
 #### I'm an Accounting major turned IT Pro, and an avid learner!
@@ -20,7 +20,7 @@
 - SQL, Python, Bash. 
 - VS Code / Azure Data Studio / SSMS
 
---------------------------------------------------------------------------------------------------------
+--- 
 
 #### Core Skills: 
 - Data management: Database Administration & Manipulation / Data Storage / Azure Data / Azure Data Analyst / Azure DBA / Azure SQL Database / 
@@ -30,13 +30,14 @@
 <!-- AI/ML: Azure Bot Services / Azure Machine Learning. -->
 - Business Analysis: Requirements gathering / Analytical & Critical Thinking / stakeholder management / Cost-Benefit Analysis / SQL Databases / Microsoft Excel / Use-case Modelling / Documentation and Presentation.
 
---------------------------------------------------------------------------------------------------------
+---
 
 #### Pro memberships & qualifications: 
 - BCS, The Chartered Institute for IT: Professional member (MBCS). Membership no: 990251404.
 - RIIT: Professional Registration of IT Technician (RITTech). Registration no: RITTECH003559
 - Association of Certified Chartered Accountants (ACCA) Part qualified. Reg. no: 1388675. 
-- Amazon Web Services Cloud Practitioner. Credential ID 2444299.
+- Amazon Web Services Cloud Practitioner. 
+- <img src="aws-certified-cloud-practitioner.png" class="aws-badge" alt="AWS Certified Cloud Practitioner"/> Credential ID 2444299.
 - Microsoft Certfied: Identity Access Management Associate. Credential ID 1547-9604.
 - Microsoft Certified: Security, Compliance & Identiry. Credential ID 1464-1692.
 - Microsoft Certified: AZ/DP/AI/PL/MS-900s.
@@ -46,12 +47,12 @@
 - Microsoft: Power BI Data Analyst Associate. 
 - AXELOS Global Best Practice: PRINCE2. Credential ID 2000045422.
 
---------------------------------------------------------------------------------------------------------
+---
 
 #### 📕 Blog Posts
 Watch this space 😄
 
---------------------------------------------------------------------------------------------------------
+---
 
 #### 💬 Connect with me:
 <!-- 
@@ -67,7 +68,7 @@ https://twitter.com/orimsway2cool | https://uk.linkedin.com/
 [<img align="left" alt="ladecze | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
 
---------------------------------------------------------------------------------------------------------
+---
 
 #### 👯 Github Stats:
 
@@ -90,7 +91,7 @@ Alternate Github stats code:
 [![Ladcze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladcze)](https://github.com/ladcze/github-readme-stats)
 -->  
 
---------------------------------------------------------------------------------------------------------
+---
 
 <!--
 **Ladcze/Ladcze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
