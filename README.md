@@ -27,7 +27,7 @@
   Cloud Data Services / Data Analytics / Data Visualization / Power BI / SQL Server On Azure Virtual Machines.
 - Cloud services:  Cloud Computing / Cloud Networking / Cloud Security / Cloud Storage / Virtualization (Pry - Azure, Sec - AWS).
 - Secuirty: Azure AD / Compliance Management / Identity And Access Management / Information Protection And Governance / Security Management
-- AI/ML: Azure Bot Services / Azure Machine Learning.
+<!-- AI/ML: Azure Bot Services / Azure Machine Learning. -->
 - Business Analysis: Requirements gathering / Analytical & Critical Thinking / stakeholder management / Cost-Benefit Analysis / SQL Databases / Microsoft Excel / Use-case Modelling / Documentation and Presentation.
 
 --------------------------------------------------------------------------------------------------------
