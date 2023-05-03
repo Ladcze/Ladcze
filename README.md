@@ -8,21 +8,17 @@
 
 - 🔭 I currently manage all ICT services to the business while playing a lead role in the delivery of a variety of IT related projects.
 - 🌱 Every day is a school day: I am always learning to further improve my technical skills and keep abreast of changes within the information technology landscape <!-- Check https://www.indeed.com/career-advice/career-development/keeping-up-with-technology -->
-- 👯 I’m looking to collaborate with organizations and individuals to solve business problems leveraging on data management while adhering to generally accepted best         practices and standards. 
-- 😄 The other Ladcze you may have not met yet: an Actor / Puppeteer / Radio-show Host (Sunday Gist) / MC/Compère. 
-- ⚡ Fun fact 1: I enjoy gaming (FIFA series, Arkham Series, Tomb Raider series, a bit of CoD & more), music and movies. 
-- ⚡ Fun fact 2: Watch football, play basketball. 
-- ✨ calledToShowTheLoveOfChrist
+- 👯 I look to collaborate with organizations and individuals to solve business problems leveraging on data management while adhering to generally accepted best practices and standards. 
 
---------------------------------------------------------------------------------------------------------
+---
 
-#### Languages & Tools: 
+#### Languages & Tools
 - SQL, Python, Bash. 
 - VS Code / Azure Data Studio / SSMS
 
 --- 
 
-#### Core Skills: 
+#### Core Skills 
 - Data management: Database Administration & Manipulation / Data Storage / Azure Data / Azure Data Analyst / Azure DBA / Azure SQL Database / 
   Cloud Data Services / Data Analytics / Data Visualization / Power BI / SQL Server On Azure Virtual Machines.
 - Cloud services:  Cloud Computing / Cloud Networking / Cloud Security / Cloud Storage / Virtualization (Pry - Azure, Sec - AWS).
@@ -32,7 +28,7 @@
 
 ---
 
-#### Pro memberships & Certifications: 
+#### Pro memberships & Certifications
 - BCS, The Chartered Institute for IT: Professional member (MBCS). Membership no: 990251404.
 - RIIT: Professional Registration of IT Technician (RITTech). Registration no: RITTECH003559
 - Association of Certified Chartered Accountants (ACCA) Part qualified. Reg. no: 1388675. 
@@ -59,7 +55,16 @@ Watch this space 😄
 
 ---
 
-#### 💬 Connect with me:
+####  😄 Fun facts/Personal Interests
+- A peek into the other Ladcze you may have not met yet...  
+⚡ Actor / Puppeteer / Radio-show Host (Sunday Gist) / MC/Compère.   
+⚡ Fun fact 1: I enjoy gaming (FIFA series, Arkham Series, Tomb Raider series, a bit of CoD & more), music and movies.  
+⚡ Fun fact 2: Watch football, play basketball.  
+✨ calledToShowTheLoveOfChrist
+
+---
+
+#### 💬 Connect with me
 <!-- 
 [Twitter logo]@orimsway2cool
 https://twitter.com/orimsway2cool | https://uk.linkedin.com/
