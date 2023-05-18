@@ -32,8 +32,7 @@
 - BCS, The Chartered Institute for IT: Professional member (MBCS). Membership no: 990251404.
 - RIIT: Professional Registration of IT Technician (RITTech). Registration no: RITTECH003559
 - Association of Certified Chartered Accountants (ACCA) Part qualified. Reg. no: 1388675. 
-
-![](aws-certified-cloud-practitioner.png)     ![](microsoft-certified-azure-fundamentals.png)     ![](microsoft-certified-security-compliance-and-identity-fundamentals.png)     ![](microsoft-certified-identity-and-access-administrator-associate.png)     
+<!-- ![](aws-certified-cloud-practitioner.png)     ![](microsoft-certified-azure-fundamentals.png)     ![](microsoft-certified-security-compliance-and-identity-fundamentals.png)     ![](microsoft-certified-identity-and-access-administrator-associate.png)     -->
 - Microsoft: Security Operations Analyst.
 - Microsoft: Azure Administrator Associate. 
 - Microsoft: Azure Database Administrator Associate. 
@@ -71,7 +70,8 @@ https://twitter.com/orimsway2cool | https://uk.linkedin.com/
 @orimsway2cool 
 -->
 
-![](twitter_icon.png)         ![](linkedin_icon.png)          ![](youtube_icon.png)
+![twitter_icon](https://github.com/Ladcze/Ladcze/assets/97769275/aabf0268-f11d-4126-899a-defa9e778bad)         ![linkedin_icon](https://github.com/Ladcze/Ladcze/assets/97769275/4fa5574e-ace5-45cc-b9c5-4b532d51cc31)          ![youtube_icon](https://github.com/Ladcze/Ladcze/assets/97769275/2a6cf773-fd80-4b1d-b19a-517d7698a1a4)
+<!-- ![](twitter_icon.png)         ![](linkedin_icon.png)          ![](youtube_icon.png) -->
 
 <!--
 [<img align="left" alt="orimsway2cool | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
