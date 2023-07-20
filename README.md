@@ -33,18 +33,17 @@
 - RIIT: Professional Registration of IT Technician (RITTech). Registration no: RITTECH003559
 - Association of Certified Chartered Accountants (ACCA) Part qualified. Reg. no: 1388675. 
 <!-- ![](aws-certified-cloud-practitioner.png)     ![](microsoft-certified-azure-fundamentals.png)     ![](microsoft-certified-security-compliance-and-identity-fundamentals.png)     ![](microsoft-certified-identity-and-access-administrator-associate.png)     -->
-- Microsoft: Security Operations Analyst.
-- Microsoft: Azure Administrator Associate. 
-- Microsoft: Azure Database Administrator Associate. 
-- Microsoft: Power BI Data Analyst Associate. 
+- Amazon Web Services Cloud Practitioner. Credential ID 2444299.
+- Microsoft Certfied: Azure Administrator Associate. Credential ID ACEEFF5F09E1F4D1.
+- Microsoft Certfied: Identity Access Management Associate. Credential ID 729974917D98E12C.
+- Microsoft Certified: Security, Compliance & Identiry. Credential ID 42EC67E208FFEA05.
 - AXELOS Global Best Practice: PRINCE2. Credential ID 2000045422.
 
 <!--
-- Amazon Web Services Cloud Practitioner. Credential ID 2444299.
-- Microsoft Certfied: Identity Access Management Associate. Credential ID 1547-9604.
-- Microsoft Certfied: Identity Access Management Associate. Credential ID 1547-9604.
-- Microsoft Certified: Security, Compliance & Identiry. Credential ID 1464-1692.
 - Microsoft Certified: AZ/DP/AI/PL/MS-900s.
+- Microsoft: Security Operations Analyst.
+- Microsoft: Azure Database Administrator Associate. 
+- Microsoft: Power BI Data Analyst Associate. 
 -->
 
 ---
