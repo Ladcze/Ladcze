@@ -55,6 +55,18 @@
 
 ---
 
+#### Projects   
+- VMWare upgrades
+- Citrix upgrades
+- Win 2003 and 2008 R2 farm upgrades
+- Windows 10 upgrades
+- SAN Expansions
+- Avaya telephony upgrades to VOIP (Cisco Webex)
+- Full scale On-prem infrastructure migration to Azure cloud
+- M365, Intune, MDM and Bitlocker rollout
+
+---
+
 #### 📕 Blog Posts
 Watch this space 😄
 
